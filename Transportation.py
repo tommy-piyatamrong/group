@@ -36,6 +36,14 @@ class Train( Transportation ):
     
     def find_cost( self ):
         return 5*self.distance
+        
+class Bicycle( Transportation ):
+
+   def __init__( self, start, end, distance ):
+      Transportation.__init__( self, start, end, distance)
+
+   def find_cost( self ):
+      return 0
    
 # main program
 
