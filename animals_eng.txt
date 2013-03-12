@@ -1,0 +1,170 @@
+Abalone
+Adder
+Alaskan husky
+Albacore tuna
+Albatross
+Alligator
+Anaconda
+Anchovy
+Anglerfish
+Angora
+Ant
+Antelope
+Arctic wolf
+Asian water buffalo
+Asiatic greater freshwater clam
+Baboon
+Badger
+Bald eagle
+Bandicoot
+Banteng
+Barracuda
+Bass
+Bat
+Beagle
+Bear
+Beaver
+Bee
+Beetle
+Bighorn
+Bird of Paradise
+Bison
+Black Bear
+Black widow spider
+Blowfish
+Blue jay
+Blue whale
+Boa constrictor
+Boar
+Bobcat
+Bull mastiff
+Bullfrog
+Bumblebee
+Butterfly
+Camel
+Canary
+Cardinal
+Caribou
+Carp
+Catfish
+Chameleon
+Chamois
+Cheetah
+Chihuahua
+Chimpanzee
+Chipmunk
+Cobra
+Cockatoo
+Cocker spaniel
+Cod
+Condor
+Copperhead
+Cougar
+Cow
+Coyote
+Crane
+Crayfish
+Crocodile
+Crow
+Dolphin
+Dove
+Duck
+Dugong
+Eagle
+Elephant
+Emu
+Falcon
+Flamingo
+Flying Fox
+Frog
+Gazelle
+Gecko
+Gibbon
+Giraffe
+Goose
+Gorilla
+Guineafowl
+Haddock
+Halcyon
+Halibut
+Hamster
+Hare
+Hawk
+Hedgehog
+Hellbender
+Hermit crab
+Heron
+Herring
+Hippopotamus
+Hog
+Hornet
+Horsefly
+Housefly
+Hummingbird
+Humpback whale
+Hyena
+Iguana
+Impala
+Jackal
+Jaguar
+Kangaloo
+Kingfisher
+Koala
+Komodo Dragon
+Lemur
+Leopard
+Lion
+Lionfish
+Llama
+Lory
+Macaw
+Manatee
+Meerkat
+Newt
+Nightingale
+Nutcracker
+Orca
+Ostrich
+Otter
+Owl
+Panther
+Parrot
+Pelican
+Penguin
+Pheasant
+Pigeon
+Piranha
+Puffin
+Python
+Quail
+Quoll
+Rabbit
+Raccoon
+Rainbow trout
+Rattlesnake
+Reindeer
+Rhinoceros
+Salmon
+Sea cow
+Sea lion
+Seahorse
+Seal
+Shark
+Sheep
+Sloth
+Stork
+Swan
+Tasmanian devil
+Tiger
+Toad
+Tortoise
+Viper
+Walrus
+Warthog
+Wasp
+Waterbuck
+Whale
+Whale shark
+Wolf
+Yak
+Zebra
